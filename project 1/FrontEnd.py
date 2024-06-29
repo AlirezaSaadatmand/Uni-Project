@@ -22,7 +22,7 @@ class Project:
         self.wellcome_lb.pack(pady=10)
         
         #User name frame
-        self.username_f = Frame(self.root , width=500 , height=50) #53337529   53337530
+        self.username_f = Frame(self.root , width=500 , height=50)
         self.username_f.config(bg="white")
         self.username_f.pack(pady=10)
         
